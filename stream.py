@@ -24,9 +24,9 @@ button = st.button("Analyze")
 
 d = {
     
-   1:'Postive',
-   0.5:'Netural',
-   0:'Negative'
+   1:'Postive😄',
+   
+   0:'Negative🙁'
 }
 
 if user_input and button :
